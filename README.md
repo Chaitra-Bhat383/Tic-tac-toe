@@ -6,8 +6,11 @@ One of the most unique features of the multi-level communication platform Discor
 
 # Commands Used
 .start @player1 @player2 ==> starts the game with 2 players
+
 .end ==> Ends the game
+
 .place number ==> places at the box number we specify
+
 
 # How does it look?
 ![Screenshot of GitHub Bot UI](/tic-tac-toe.png)
