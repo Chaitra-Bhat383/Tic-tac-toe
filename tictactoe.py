@@ -146,7 +146,7 @@ async def place_error(ctx, error):
     elif isinstance(error, commands.BadArgument):
         await ctx.send("Please make sure to enter an integer.")
 
-client.run("ODUwMzk2NzA3NjM5MjYzMjgy.YLpHpg.DFwE0esVJSD--OmGL5B6Yd2_Zfw")
+client.run("ODUwMzk2NzA3NjM5MjYzMjgy.YLpHpg.um3yBllnZYzX_hUF8cGkVaMx3rM")
 
 # If you wish to securely hide your token, you can do so in a .env file.
 # 1. Create a .env in the same directory as your Python scripts
