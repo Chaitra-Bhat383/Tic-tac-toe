@@ -47,7 +47,7 @@ jupyter-core==4.6.3
 jupyterlab==2.2.6
 
 lazy-object-proxy==1.6.0
-libarchive-c==2.9
+
 llvmlite==0.34.0
 locket==0.2.0
 
